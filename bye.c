@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main(){
-  Serial.printf("Pulling msg");
+  Serial.printf("Pushing msg");
   Serial.printf("bye.C");
+  Serial.printf("Changes Done");
 }
